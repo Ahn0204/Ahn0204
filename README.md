@@ -4,12 +4,8 @@
 
 ### 실시간 처리와 권한 기반 서비스 구조를 고민하는 백엔드 개발자입니다.
 
-Spring Boot 기반 웹 서비스를 개발하며  
-인증 / 권한 처리, 실시간 데이터 흐름, 서비스 구조 설계를 경험했습니다.
-
-단순 기능 구현보다  
-“왜 이런 구조로 설계했는가”를 고민하며  
-유지보수성과 서비스 흐름을 고려한 개발을 지향합니다.
+“기능 구현”을 넘어  
+서비스 흐름과 유지보수 구조를 함께 고민하며 개발하고 있습니다.
 
 <br>
 
@@ -52,23 +48,32 @@ Spring Boot 기반 웹 서비스를 개발하며
 ## 🥖 모두의빵
 ### 실시간 주문 · 배송 상태 관리 서비스
 
+> 사용자 / 점주 / 배달기사 역할 기반으로  
+> 주문과 배송 상태를 실시간으로 관리할 수 있는 서비스입니다.
+
+### Focus
 - Spring Security 기반 권한 처리
 - WebSocket 기반 실시간 상태 흐름 처리
 - 주문 / 배송 상태 관리 구조 설계
 - JPA Fetch Join 기반 조회 성능 개선
 
+### Tech
 `Spring Boot` `Spring Security` `JPA` `WebSocket`
 
 ---
 
-## ⏳ Waiting System
-### 실시간 웨이팅 · 예약 관리 서비스
+## ⏳ Waiting System (Developing)
+### 실시간 웨이팅 · 예약 시스템 개발 진행 중
 
-- 실시간 웨이팅 및 예약 상태 관리
+> 실시간 웨이팅 상태 흐름과 예약 구조를 중심으로 개발 중인 개인 프로젝트입니다.
+
+### Focus
+- 실시간 웨이팅 상태 흐름 설계
 - ROLE 기반 사용자 / 점주 권한 분리
-- 상태값 기반 웨이팅 흐름 설계
-- WebSocket 기반 실시간 데이터 처리
+- 상태값 기반 웨이팅 구조 설계
+- WebSocket 기반 실시간 처리 구조 학습
 
+### Tech
 `Spring Boot` `Spring Security` `MariaDB` `WebSocket`
 
 ---
@@ -76,11 +81,15 @@ Spring Boot 기반 웹 서비스를 개발하며
 ## 📰 SpringBoot News Platform
 ### 기사 · 댓글 · 신고 기반 뉴스 플랫폼
 
-- 기사 승인 및 신고 처리 흐름 설계
-- 댓글 및 관리자 기능 구조 분리
-- Controller - Service - Mapper 계층 분리
-- 도메인 중심 패키지 구조 설계
+> 기사 승인, 댓글, 신고 처리 흐름을 고려하여 구현한 뉴스 서비스입니다.
 
+### Focus
+- 기사 및 댓글 도메인 구조 설계
+- Controller - Service - Mapper 계층 분리
+- 신고 및 관리자 승인 흐름 설계
+- 도메인 중심 패키지 구조 구성
+
+### Tech
 `Spring Boot` `MyBatis` `Thymeleaf`
 
 ---
@@ -103,17 +112,16 @@ N+1 문제를 분석하고 Fetch Join을 적용하여
 
 ---
 
-# 📚 Currently Learning
+# 📚 Interested In
 
-- Spring Security 인증 / 인가 구조
-- WebSocket 기반 실시간 처리
-- JPA 성능 최적화
-- 서비스 구조 설계
-- 유지보수를 고려한 백엔드 설계
+- Spring Security 기반 인증 및 권한 처리
+- WebSocket 기반 실시간 데이터 처리
+- 상태 흐름 중심 서비스 설계
+- 유지보수를 고려한 백엔드 구조
 
 ---
 
 # 📫 Contact
 
-- GitHub : https://github.com/Ahn0204
+- GitHub : github.com/Ahn0204
 - Email : ahn02041@gmail.com
