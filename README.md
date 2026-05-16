@@ -15,8 +15,6 @@
 <img src="https://img.shields.io/badge/JPA-Hibernate-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/MyBatis-black?style=for-the-badge">
 <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge">
 
 <br><br>
 
@@ -29,17 +27,25 @@
 
 # 🛠 Tech Stack
 
-### Backend
-`Java` `Spring Boot` `Spring Security` `JPA` `MyBatis` `WebSocket`
+## 📌 구현 기술
 
-### Database
-`MariaDB` `Oracle`
+| 분야 | 기술 |
+|---|---|
+| **Frontend** | JSP, HTML, CSS, JavaScript, jQuery |
+| **Backend** | Java, Spring Boot, JPA, Spring Security, REST API |
+| **API / 비동기 통신** | AJAX, REST API, WebSocket |
+| **협업 / 기타** | Git, GitHub |
 
-### Frontend
-`JavaScript` `jQuery` `Thymeleaf`
+---
 
-### Infra & Tools
-`AWS EC2` `GitHub` `Git`
+## 💻 개발 환경
+
+| 분야 | 환경 |
+|---|---|
+| **OS** | Windows 11, Linux |
+| **Database** | OracleDB, MySQL |
+| **IDE / Tools** | VS Code, STS, Eclipse |
+| **Infra** | AWS EC2 |
 
 ---
 
